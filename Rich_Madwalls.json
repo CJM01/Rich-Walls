@@ -1,0 +1,79 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Mad Season",
+				"url": "https://github.com/CJM01/Rich-Walls/blob/master/mad1.png?raw=true",
+				"thumbUrl": "https://github.com/CJM01/Rich-Walls/blob/master/mad1b.png?raw=true",
+				"name": "Place Holder",
+                "category": "people,House"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://github.com/CJM01/Rich-Walls/blob/master/mad2.png?raw=true",
+				"thumbUrl": "https://github.com/CJM01/Rich-Walls/blob/master/mad2b.png?raw=true",
+				"name": "Place Holder",
+                "category": "architecture,Road,Ocean"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://github.com/CJM01/Rich-Walls/blob/master/mad3.png?raw=true",
+				"thumbUrl": "https://github.com/CJM01/Rich-Walls/blob/master/mad3b.png?raw=true",
+				"name": "Place Holder",
+                "category": "architecture,city"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://github.com/CJM01/Rich-Walls/blob/master/mad4.png?raw=true",
+				"thumbUrl": "https://github.com/CJM01/Rich-Walls/blob/master/mad4b.png?raw=true",
+				"name": "Place Holder",
+                "category": "mountain,Animal,Sunset"
+			}
+		]
+}
