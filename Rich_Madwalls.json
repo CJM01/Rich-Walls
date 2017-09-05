@@ -52,28 +52,28 @@
 				"url": "https://github.com/CJM01/Rich-Walls/blob/master/mad1.png?raw=true",
 				"thumbUrl": "https://github.com/CJM01/Rich-Walls/blob/master/mad1b.png?raw=true",
 				"name": "Place Holder",
-                "category": "people,House"
+                "category": "people,House,Black and White"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://github.com/CJM01/Rich-Walls/blob/master/mad2.png?raw=true",
 				"thumbUrl": "https://github.com/CJM01/Rich-Walls/blob/master/mad2b.png?raw=true",
 				"name": "Place Holder",
-                "category": "architecture,Road,Ocean"
+                "category": "architecture,Road,Ocean,Forest"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://github.com/CJM01/Rich-Walls/blob/master/mad3.png?raw=true",
 				"thumbUrl": "https://github.com/CJM01/Rich-Walls/blob/master/mad3b.png?raw=true",
 				"name": "Place Holder",
-                "category": "architecture,city"
+                "category": "architecture,city,Satellite"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://github.com/CJM01/Rich-Walls/blob/master/mad4.png?raw=true",
 				"thumbUrl": "https://github.com/CJM01/Rich-Walls/blob/master/mad4b.png?raw=true",
 				"name": "Place Holder",
-                "category": "mountain,Animal,Sunset"
+                "category": "mountain,Animal,Sunset,Beach"
 			}
 		]
 }
