@@ -2,40 +2,25 @@
     "Categories": 
         [
             {
-                "name": "People"
-            },
-            {
-                "name": "Architecture"
+                "name": "Color"
             },
             {
                 "name": "City"
             },
             {
-                "name": "Mountain"
-            },
-            {
-                "name": "Forest"
-            },
-            {
-                "name": "Sunset"
+                "name": "Sky"
             },
             {
                 "name": "Nature"
             },
             {
-                "name": "Satellite"
+                "name": "Shapes"
             },
             {
-                "name": "Animal"
+                "name": "Space"
             },
             {
-                "name": "Ocean"
-            },
-            {
-                "name": "Beach"
-            },
-            {
-                "name": "Road"
+                "name": "Science"
             },
             {
                 "name": "Black and White"
@@ -49,31 +34,73 @@
         [
 			{
 				"author": "Mad Season",
-				"url": "https://github.com/CJM01/Rich-Walls/blob/master/mad1.png?raw=true",
-				"thumbUrl": "https://github.com/CJM01/Rich-Walls/blob/master/mad1b.png?raw=true",
-				"name": "Place Holder",
-                "category": "people,House,Black and White"
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/rocket.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/rocket.png",
+				"name": "Rocket",
+                "category": "Space,Sky,Color"
 			},
             {
 				"author": "Mad Season",
-				"url": "https://github.com/CJM01/Rich-Walls/blob/master/mad2.png?raw=true",
-				"thumbUrl": "https://github.com/CJM01/Rich-Walls/blob/master/mad2b.png?raw=true",
-				"name": "Place Holder",
-                "category": "architecture,Road,Ocean,Forest"
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/chemist2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/chemist2.png",
+				"name": "Chemist",
+                "category": "Science,Black and White"
 			},
             {
 				"author": "Mad Season",
-				"url": "https://github.com/CJM01/Rich-Walls/blob/master/mad3.png?raw=true",
-				"thumbUrl": "https://github.com/CJM01/Rich-Walls/blob/master/mad3b.png?raw=true",
-				"name": "Place Holder",
-                "category": "architecture,city,Satellite"
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/cloud8.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/cloud8.png",
+				"name": "Clouds",
+                "category": "Sky,Color,Nature"
 			},
             {
 				"author": "Mad Season",
-				"url": "https://github.com/CJM01/Rich-Walls/blob/master/mad4.png?raw=true",
-				"thumbUrl": "https://github.com/CJM01/Rich-Walls/blob/master/mad4b.png?raw=true",
-				"name": "Place Holder",
-                "category": "mountain,Animal,Sunset,Beach"
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/stars.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/stars.png",
+				"name": "Stars",
+                "category": "Sky,Space,Color,Nature"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/houses.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/houses.png",
+				"name": "House",
+                "category": "House,Color,Nature"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/buildings1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/buildings1.png",
+				"name": "City Lights",
+                "category": "Black and White,City"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/cloudes11.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/cloudes11.png",
+				"name": "Dark Clouds",
+                "category": "Sky,Nature,Black and White,Color"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/blackhouse.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/blackhouse.png",
+				"name": "Dark House",
+                "category": "House,Black and White"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/strips2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/strips2.png",
+				"name": "Stripes",
+                "category": "Color,Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
 			}
 		]
 }
