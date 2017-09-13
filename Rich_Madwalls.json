@@ -17,6 +17,9 @@
                 "name": "Shapes"
             },
             {
+                "name": "Gradients"
+            },
+            {
                 "name": "Space"
             },
             {
@@ -97,6 +100,223 @@
 			},
             {
 				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_Angles.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_Angles.jpg",
+				"name": "Blue Angles",
+                "category": "Color,Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_grad1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_grad1.png",
+				"name": "Blue Gradient",
+                "category": "Color,Shapes,Gradients"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Cross.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Cross.jpg",
+				"name": "Cross",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Grey_Angles.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Grey_Angles.jpg",
+				"name": "Grey Angles",
+                "category": "Gradients,Shapes,Black and White"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines_grey.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines_grey.jpg",
+				"name": "Grey Lines",
+                "category": "Shapes,Black and White"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines_magenta-dark.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines_magenta-dark.jpg",
+				"name": "Magenta Lines",
+                "category": "Color,Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines_purple.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines_purple.jpg",
+				"name": "Purple Lines",
+                "category": "Color,Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Magenta_dark_Grad01.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Magenta_dark_Grad01.png",
+				"name": "Dark Magenta Gradient",
+                "category": "Color,Gradients"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Magenta_dark_Grad02.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Magenta_dark_Grad02.png",
+				"name": "Dark Magenta Gradient 2",
+                "category": "Color,Shapes,Gradients"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mnt_Blue.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mnt_Blue.jpg",
+				"name": "Blue Mountians",
+                "category": "Color,Shapes,Gradients"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mnt_Teal.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mnt_Teal.jpg",
+				"name": "Teal Mountians",
+                "category": "Color,Shapes,Gradients"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mnt_eve.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mnt_eve.jpg",
+				"name": "Orange Mountain",
+                "category": "Color,Shapes,Gradients"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
+				"name": "German",
+                "category": "Color,Shapes,Black and White"
+			},
+            {
+				"author": "New",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
 				"name": "German",
