@@ -306,7 +306,63 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/white_Pink_Grad01.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/white_Pink_Grad01.png",
 				"name": "Gradient6",
+                "category": "Color,City,Dark"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20green.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20green.png",
+				"name": "Blue Angles 2",
                 "category": "Color,Gradients"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Clouds_BW.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Clouds_BW.jpg",
+				"name": "Clouds",
+                "category": "Sky,Nature,Dark"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Nite_lites.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Nite_lites.jpg",
+				"name": "Nite Lites",
+                "category": "Color,Gradients"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20green.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20green.png",
+				"name": "Green Hall",
+                "category": "Color,Gradients,Dark"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20grey.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20grey.png",
+				"name": "Grey Hall",
+                "category": "Color,Gradients,Dark"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20purple.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20purple.png",
+				"name": "Purple Hall",
+                "category": "Color,Gradients,Dark"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/stained%20glass.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/stained%20glass.png",
+				"name": "Stained Glass",
+                "category": "Color,Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/stained%20glass%202.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/stained%20glass%202.jpg",
+				"name": "Stained Glass",
+                "category": "Color,Shapes,Dark"
 			}
 		]
 }
