@@ -117,7 +117,7 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_grad1.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_grad1.png",
 				"name": "Blue Gradient",
-                "category": "Color,Shapes,Gradients"
+                "category": "Color,Gradients"
 			},
             {
 				"author": "Mad Season",
@@ -166,7 +166,7 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Magenta_dark_Grad02.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Magenta_dark_Grad02.png",
 				"name": "Dark Magenta Gradient 2",
-                "category": "Color,Shapes,Gradients"
+                "category": "Color,Gradients"
 			},
             {
 				"author": "Mad Season",
@@ -306,14 +306,14 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/white_Pink_Grad01.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/white_Pink_Grad01.png",
 				"name": "Gradient6",
-                "category": "Color,City,Dark"
+                "category": "Color,Shapes,Gradients"
 			},
             {
 				"author": "Mad Season",
-				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20green.png",
-				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20green.png",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_Angles_2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_Angles_2.jpg",
 				"name": "Blue Angles 2",
-                "category": "Color,Gradients"
+                "category": "Color,Shapes"
 			},
             {
 				"author": "Mad Season",
@@ -341,7 +341,7 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20grey.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20grey.png",
 				"name": "Grey Hall",
-                "category": "Color,Gradients,Dark"
+                "category": "Gradients,Dark"
 			},
             {
 				"author": "Mad Season",
