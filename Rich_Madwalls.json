@@ -30,6 +30,9 @@
             },
             {
                 "name": "House"
+            },
+            {
+                "name": "Photography"
             }
         ],
     
@@ -349,6 +352,20 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/stained%20glass%202.jpg",
 				"name": "Stained Glass",
                 "category": "Color,Shapes,Dark"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/lake.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/lake.jpg",
+				"name": "Lake",
+                "category": "Color,Photography"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/lake2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/lake2.jpg",
+				"name": "Stained Glass",
+                "category": "Color,Photography"
 			}
 		]
 }
