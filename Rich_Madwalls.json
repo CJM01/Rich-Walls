@@ -5,9 +5,6 @@
                 "name": "Color"
             },
             {
-                "name": "City"
-            },
-            {
                 "name": "Sky"
             },
             {
@@ -78,7 +75,7 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/buildings1.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/buildings1.png",
 				"name": "City Lights",
-                "category": "Dark,City,Buildings"
+                "category": "Dark,Buildings"
 			},
             {
 				"author": "Mad Season",
@@ -210,28 +207,28 @@
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Pink_Purple_Grad01.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Pink_Purple_Grad01.png",
-				"name": "Gradient1",
+				"name": "Gradient 1",
                 "category": "Color,Gradients"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Pink_Purple_Grad02.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Pink_Purple_Grad02.png",
-				"name": "Gradient2",
+				"name": "Gradient 2",
                 "category": "Color,Gradients"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Purple_dark_Grad01.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Purple_dark_Grad01.png",
-				"name": "Gradient3",
+				"name": "Gradient 3",
                 "category": "Color,Gradients,Dark"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Purple_dark_Grad02.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Purple_dark_Grad02.png",
-				"name": "Gradient4",
+				"name": "Gradient 4",
                 "category": "Color,Gradients,Dark"
 			},
             {
@@ -245,14 +242,14 @@
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Sunset002.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Sunset002.jpg",
-				"name": "Sun2",
+				"name": "Sun 2",
                 "category": "Color,Shapes,Gradients,Sky"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Sunset003.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Sunset003.jpg",
-				"name": "Sun3",
+				"name": "Sun 3",
                 "category": "Color,Shapes,Dark,Gradients,Sky"
 			},
             {
@@ -266,14 +263,14 @@
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/buildings2.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/buildings2.jpg",
-				"name": "Buildings2",
-                "category": "Color,Shapes,City,Sky,Gradients,Buildings"
+				"name": "Buildings 2",
+                "category": "Color,Shapes,Sky,Gradients,Buildings"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/deep_Teal_Grad01.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/deep_Teal_Grad01.jpg",
-				"name": "Gradient5",
+				"name": "Gradient 5",
                 "category": "Color,Shapes,Gradients"
 			},
             {
@@ -287,14 +284,14 @@
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/houses-2.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/houses-2.png",
-				"name": "House2",
+				"name": "House 2",
                 "category": "Color,Shapes,Buildings"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/white_Pink_Grad01.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/white_Pink_Grad01.png",
-				"name": "Gradient6",
+				"name": "Gradient 6",
                 "category": "Color,Shapes,Gradients"
 			},
             {
