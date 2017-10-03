@@ -29,7 +29,7 @@
                 "name": "Dark"
             },
             {
-                "name": "House"
+                "name": "Buildings"
             },
             {
                 "name": "Photography"
@@ -70,15 +70,15 @@
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/houses.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/houses.png",
-				"name": "House1",
-                "category": "House,Color,Nature"
+				"name": "House 1",
+                "category": "House,Color,Nature,Buildings"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/buildings1.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/buildings1.png",
 				"name": "City Lights",
-                "category": "Dark,City"
+                "category": "Dark,City,Buildings"
 			},
             {
 				"author": "Mad Season",
@@ -92,7 +92,7 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/blackhouse.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/blackhouse.png",
 				"name": "Dark House",
-                "category": "House,Dark"
+                "category": "Buildings,Dark"
 			},
             {
 				"author": "Mad Season",
@@ -113,7 +113,7 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_Angles.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_Angles.jpg",
 				"name": "Blue Angles",
-                "category": "Color,Shapes"
+                "category": "Color,Shapes,Gradients"
 			},
             {
 				"author": "Mad Season",
@@ -239,7 +239,7 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Sharks_Lighthouse_01.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Sharks_Lighthouse_01.jpg",
 				"name": "Lighthouse",
-                "category": "Color,Shapes,Nature,Sky"
+                "category": "Color,Shapes,Nature,Sky,Buildings"
 			},
             {
 				"author": "Mad Season",
@@ -267,7 +267,7 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/buildings2.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/buildings2.jpg",
 				"name": "Buildings2",
-                "category": "Color,Shapes,City,Sky,Gradients"
+                "category": "Color,Shapes,City,Sky,Gradients,Buildings"
 			},
             {
 				"author": "Mad Season",
@@ -288,7 +288,7 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/houses-2.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/houses-2.png",
 				"name": "House2",
-                "category": "Color,Shapes"
+                "category": "Color,Shapes,Buildings"
 			},
             {
 				"author": "Mad Season",
@@ -309,7 +309,7 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Clouds_BW.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Clouds_BW.jpg",
 				"name": "Clouds",
-                "category": "Sky,Nature,Dark"
+                "category": "Sky,Nature,Dark,Photography"
 			},
             {
 				"author": "Mad Season",
