@@ -369,7 +369,8 @@
 			},
             {
 				"author": "Mad Season",
-				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Train%20bridge.jpg": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Train%20bridge.jpg",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Train%20bridge.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Train%20bridge.jpg",
 				"name": "The Train Bridge",
                 "category": "Dark,Nature,Photography"
 			}
