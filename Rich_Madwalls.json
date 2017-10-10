@@ -363,6 +363,27 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/1096.jpg",
 				"name": "Gradient",
                 "category": "Gradients,Color"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines.jpg",
+				"name": "Lines",
+                "category": "Dark,Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines1.jpg",
+				"name": "Lines",
+                "category": "Dark,Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines2.jpg",
+				"name": "Lines",
+                "category": "Dark,Shapes"
 			}
 		]
 }
