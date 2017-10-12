@@ -2,13 +2,7 @@
     "Categories": 
         [
             {
-                "name": "Color"
-            },
-            {
                 "name": "Sky"
-            },
-            {
-                "name": "Nature"
             },
             {
                 "name": "Shapes"
@@ -40,7 +34,7 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/rocket.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/rocket.png",
 				"name": "Rocket",
-                "category": "Space,Sky,Color"
+                "category": "Space,Sky"
 			},
             {
 				"author": "Mad Season",
@@ -54,21 +48,21 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/cloud8.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/cloud8.png",
 				"name": "Clouds",
-                "category": "Sky,Color,Nature"
+                "category": "Sky"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/stars.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/stars.png",
 				"name": "Stars",
-                "category": "Sky,Space,Color,Nature"
+                "category": "Sky,Space"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/houses.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/houses.png",
 				"name": "House 1",
-                "category": "House,Color,Nature,Buildings"
+                "category": "Buildings"
 			},
             {
 				"author": "Mad Season",
@@ -82,7 +76,7 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/cloudes11.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/cloudes11.png",
 				"name": "Dark Clouds",
-                "category": "Sky,Nature,Dark,Color"
+                "category": "Sky,Dark"
 			},
             {
 				"author": "Mad Season",
@@ -96,35 +90,35 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/strips2.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/strips2.png",
 				"name": "Stripes",
-                "category": "Color,Shapes"
+                "category": "Shapes"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/german.png",
 				"name": "German",
-                "category": "Color,Shapes,Dark"
+                "category": "Shapes,Dark"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_Angles.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_Angles.jpg",
 				"name": "Blue Angles",
-                "category": "Color,Shapes,Gradients"
+                "category": "Shapes,Gradients"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_grad1.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_grad1.png",
 				"name": "Blue Gradient",
-                "category": "Color,Gradients"
+                "category": "Gradients"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Cross.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Cross.jpg",
 				"name": "Cross",
-                "category": "Color,Shapes,Dark"
+                "category": "Shapes,Dark"
 			},
             {
 				"author": "Mad Season",
@@ -145,91 +139,91 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines_magenta-dark.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines_magenta-dark.jpg",
 				"name": "Magenta Lines",
-                "category": "Color,Shapes"
+                "category": "Shapes"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines_purple.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines_purple.jpg",
 				"name": "Purple Lines",
-                "category": "Color,Shapes"
+                "category": "Shapes"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mnt_Blue.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mnt_Blue.jpg",
 				"name": "Blue Mountians",
-                "category": "Color,Shapes,Gradients"
+                "category": "Shapes,Gradients"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mnt_Teal.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mnt_Teal.jpg",
 				"name": "Teal Mountians",
-                "category": "Color,Shapes,Gradients"
+                "category": "Shapes,Gradients"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mnt_eve.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mnt_eve.jpg",
 				"name": "Orange Mountain",
-                "category": "Color,Shapes,Gradients"
+                "category": "Shapes,Gradients"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/NAME_THIS_01.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/NAME_THIS_01.jpg",
 				"name": "NAME THIS",
-                "category": "Color,Shapes"
+                "category": "Shapes"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Pink_Blue.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Pink_Blue.png",
 				"name": "Pink and Blue",
-                "category": "Color,Shapes"
+                "category": "Shapes"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Sharks_Lighthouse_01.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Sharks_Lighthouse_01.jpg",
 				"name": "Lighthouse",
-                "category": "Color,Shapes,Nature,Sky,Buildings"
+                "category": "Shapes,Sky,Buildings"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Sunset002.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Sunset002.jpg",
 				"name": "Sun 2",
-                "category": "Color,Shapes,Gradients,Sky"
+                "category": "Shapes,Gradients,Sky"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Sunset003.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Sunset003.jpg",
 				"name": "Sun 3",
-                "category": "Color,Shapes,Dark,Gradients,Sky"
+                "category": "Shapes,Dark,Gradients,Sky"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Teal_Angles.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Teal_Angles.jpg",
 				"name": "Teal Angles",
-                "category": "Color,Shapes,Gradients"
+                "category": "Shapes,Gradients"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/buildings2.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/buildings2.jpg",
 				"name": "Buildings 2",
-                "category": "Color,Shapes,Sky,Gradients,Buildings"
+                "category": "Shapes,Sky,Gradients,Buildings"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/deep_Teal_Grad01.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/deep_Teal_Grad01.jpg",
 				"name": "Gradient 5",
-                "category": "Color,Shapes,Gradients"
+                "category": "Shapes,Gradients"
 			},
             {
 				"author": "Mad Season",
@@ -243,21 +237,21 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/houses-2.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/houses-2.png",
 				"name": "House 2",
-                "category": "Color,Shapes,Buildings"
+                "category": "Shapes,Buildings"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/white_Pink_Grad01.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/white_Pink_Grad01.png",
 				"name": "Gradient 6",
-                "category": "Color,Shapes,Gradients"
+                "category": "Shapes,Gradients"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_Angles_2.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Blue_Angles_2.jpg",
 				"name": "Blue Angles 2",
-                "category": "Color,Shapes"
+                "category": "Shapes"
 			},
             {
 				"author": "Mad Season",
@@ -271,14 +265,14 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Nite_lites.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Nite_lites.jpg",
 				"name": "Nite Lites",
-                "category": "Color,Gradients,Photography"
+                "category": "Gradients,Photography"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20green.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20green.png",
 				"name": "Green Hall",
-                "category": "Color,Gradients,Dark"
+                "category": "Gradients,Dark"
 			},
             {
 				"author": "Mad Season",
@@ -292,77 +286,77 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20purple.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/hallway%20purple.png",
 				"name": "Purple Hall",
-                "category": "Color,Gradients,Dark"
+                "category": "Gradients,Dark"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/stained%20glass.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/stained%20glass.png",
 				"name": "Stained Glass",
-                "category": "Color,Shapes"
+                "category": "Shapes"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/stained%20glass%202.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/stained%20glass%202.jpg",
 				"name": "Stained Glass",
-                "category": "Color,Shapes,Dark"
+                "category": "Shapes,Dark"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/lake.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/lake.jpg",
 				"name": "Lake",
-                "category": "Color,Photography"
+                "category": "Photography"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/lake2.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/lake2.jpg",
 				"name": "Lake",
-                "category": "Color,Photography"
+                "category": "Photography"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Train%20bridge.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Train%20bridge.jpg",
 				"name": "The Train Bridge",
-                "category": "Dark,Nature,Photography"
+                "category": "Dark,Photography"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/1091.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/1091.png",
 				"name": "Gradient",
-                "category": "Gradients,Color"
+                "category": "Gradients"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/1092.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/1092.png",
 				"name": "Gradient",
-                "category": "Gradients,Color"
+                "category": "Gradients"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/1093.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/1093.png",
 				"name": "Gradient",
-                "category": "Gradients,Color"
+                "category": "Gradients"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/1094.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/1094.png",
 				"name": "Gradient",
-                "category": "Gradients,Color"
+                "category": "Gradients"
 			},
             {
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/1096.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/1096.jpg",
 				"name": "Gradient",
-                "category": "Gradients,Color"
+                "category": "Gradients"
 			},
             {
 				"author": "Mad Season",
