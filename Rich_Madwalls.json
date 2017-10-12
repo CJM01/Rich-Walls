@@ -419,6 +419,13 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/10105.png",
 				"name": "Gradients",
                 "category": "Gradients"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Cabin_001.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Cabin_001.png",
+				"name": "Mad's Cabin",
+                "category": "Buildings"
 			}
 		]
 }
