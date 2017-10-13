@@ -420,6 +420,20 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Cabin_001.png",
 				"name": "Mad's Cabin",
                 "category": "Buildings"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines2_001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Lines2_001.jpg",
+				"name": "Lines",
+                "category": "Shapes,Gradients"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Dark_City.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Dark_City.jpg",
+				"name": "City",
+                "category": "Buildings"
 			}
 		]
 }
