@@ -434,6 +434,48 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Dark_City.jpg",
 				"name": "City",
                 "category": "Buildings"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Hill%20house.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Hill%20house.png",
+				"name": "Spooky House",
+                "category": "Buildings,Gradients"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Horror%20house.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Horror%20house.png",
+				"name": "The Witches house",
+                "category": "Buildings"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Spider%20Moon.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Spider%20Moon.png",
+				"name": "Pet Spider",
+                "category": "Gradients,Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Spooky%20hand.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Spooky%20hand.png",
+				"name": "The Hand",
+                "category": "Buildings,Gradients,Dark"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/397f1f8b89d58325057e5cbb8a0e0bc900da5f0c/RIP%20Grave.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/397f1f8b89d58325057e5cbb8a0e0bc900da5f0c/RIP%20Grave.png",
+				"name": "Hallow's Eve",
+                "category": "Gradients,Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Colors.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Colors.jpg",
+				"name": "Colors & Blues",
+                "category": "Gradients"
 			}
 		]
 }
