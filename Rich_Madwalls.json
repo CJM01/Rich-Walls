@@ -476,6 +476,27 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Colors.jpg",
 				"name": "Colors & Blues",
                 "category": "Gradients"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mad-bats.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mad-bats.jpg",
+				"name": "Hallow's Bats",
+                "category": "Shapes,Dark"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mad_bats_purple.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mad_bats_purple.jpg",
+				"name": "Hallow's Purple Bats",
+                "category": "Gradients"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mad_mellon.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mad_mellon.jpg",
+				"name": "Mellon",
+                "category": "Shapes"
 			}
 		]
 }
