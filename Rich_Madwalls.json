@@ -539,6 +539,13 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/f13284da9b3015f38a87e19e4ed69ed36319fd51/fall%20leaves%20001.jpg",
 				"name": "Fall",
                 "category": "Photography"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/dem_Brains.jpeg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/dem_Brains.jpeg",
+				"name": "Mad Brains",
+                "category": "Shapes,Dark"
 			}
 		]
 }
