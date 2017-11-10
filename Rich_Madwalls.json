@@ -546,6 +546,13 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/381266ff50e579150235c0afba2712cabf4880a5/dem_Brains.jpeg",
 				"name": "Mad Brains",
                 "category": "Shapes,Dark"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/c7e1f44b96b8017cbe2cf8ddd1b220da312b3641/10104.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/c7e1f44b96b8017cbe2cf8ddd1b220da312b3641/10104.png",
+				"name": "Pencil Brains",
+                "category": "Shapes"
 			}
 		]
 }
