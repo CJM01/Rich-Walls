@@ -553,6 +553,20 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/c7e1f44b96b8017cbe2cf8ddd1b220da312b3641/10104.png",
 				"name": "Pencil Brains",
                 "category": "Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/5460665b21f896c11f38db32592c3a5e53812336/Black_Leather.jpeg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/5460665b21f896c11f38db32592c3a5e53812336/Black_Leather.jpeg",
+				"name": "Black Leather",
+                "category": "Shapes,Dark"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/5460665b21f896c11f38db32592c3a5e53812336/Black_Flanel.jpeg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/5460665b21f896c11f38db32592c3a5e53812336/Black_Flanel.jpeg",
+				"name": "Black And Grey",
+                "category": "Shapes,Dark"
 			}
 		]
 }
