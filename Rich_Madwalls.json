@@ -569,28 +569,28 @@
                 "category": "Shapes,Dark"
 			},
             {
-				"author": "Mad Season",
+				"author": "SpaceMan",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/mountains1.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/mountains1.png",
 				"name": "Mad Valley",
                 "category": "Shapes"
 			},
             {
-				"author": "Mad Season",
+				"author": "SpaceMan",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/desktop.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/desktop.png",
 				"name": "Mad's Desktop",
                 "category": "Shapes"
 			},
             {
-				"author": "Mad Season",
+				"author": "SpaceMan",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/Time.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/Time.png",
 				"name": "Mad Time",
                 "category": "Shapes"
 			},
             {
-				"author": "Mad Season",
+				"author": "SpaceMan",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/Planet%20purple.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/Planet%20purple.png",
 				"name": "Planet Mad",
@@ -649,6 +649,34 @@
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/dbf09a9e958e757afa06cb8aece2e5cfafc9fcbe/Mad1_blue.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/dbf09a9e958e757afa06cb8aece2e5cfafc9fcbe/Mad1_blue.png",
+				"name": "Mad",
+                "category": "Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/Planet%20purple.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/Planet%20purple.png",
+				"name": "Planet Mad",
+                "category": "Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/Time.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/Time.png",
+				"name": "Time",
+                "category": "Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/desktop.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/desktop.png",
+				"name": "Desktop",
+                "category": "Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/mountains1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/39b5bdf04fd323f9c3f7509f06ed6fdd88f67f1f/mountains1.png",
 				"name": "Mad",
                 "category": "Shapes"
 			}
