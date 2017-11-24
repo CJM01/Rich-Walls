@@ -700,6 +700,13 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/e1aae72f7b8f796cacaa74ab38d7089708e8c2d6/madsfixed7-1.png",
 				"name": "Mad",
                 "category": "Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mad_blend_001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mad_blend_001.jpg",
+				"name": "Mad",
+                "category": "Shapes"
 			}
 		]
 }
