@@ -59,13 +59,6 @@
 			},
             {
 				"author": "Mad Season",
-				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/houses.png",
-				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/houses.png",
-				"name": "House 1",
-                "category": "Buildings"
-			},
-            {
-				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/buildings1.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/buildings1.png",
 				"name": "City Lights",
@@ -77,13 +70,6 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/cloudes11.png",
 				"name": "Dark Clouds",
                 "category": "Sky,Dark"
-			},
-            {
-				"author": "Mad Season",
-				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/blackhouse.png",
-				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/blackhouse.png",
-				"name": "Dark House",
-                "category": "Buildings,Dark"
 			},
             {
 				"author": "Mad Season",
@@ -703,15 +689,29 @@
 			},
             {
 				"author": "CJM",
-				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mad_blend_001.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Mad_blend_001.jpg",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/dea3d62b7a344f8c674e743b5b5e8a24bf5aba8c/Mad_blend_007.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/dea3d62b7a344f8c674e743b5b5e8a24bf5aba8c/Mad_blend_007.jpg",
 				"name": "Mad",
                 "category": "Shapes"
 			},
             {
 				"author": "CJM",
-				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/d83218c139d7939eac42bf1fb1c4bc5ecfc34233/Mad_blend_002.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/d83218c139d7939eac42bf1fb1c4bc5ecfc34233/Mad_blend_002.jpg",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/dea3d62b7a344f8c674e743b5b5e8a24bf5aba8c/Mad_blend_004.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/dea3d62b7a344f8c674e743b5b5e8a24bf5aba8c/Mad_blend_004.jpg",
+				"name": "Mad",
+                "category": "Shapes"
+			},
+            {
+				"author": "CJM",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/dea3d62b7a344f8c674e743b5b5e8a24bf5aba8c/Mad_blend_006.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/dea3d62b7a344f8c674e743b5b5e8a24bf5aba8c/Mad_blend_006.jpg",
+				"name": "Mad",
+                "category": "Shapes"
+			},
+            {
+				"author": "CJM",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/dea3d62b7a344f8c674e743b5b5e8a24bf5aba8c/Mad_blend_005.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/dea3d62b7a344f8c674e743b5b5e8a24bf5aba8c/Mad_blend_005.jpg",
 				"name": "Mad",
                 "category": "Shapes"
 			}
