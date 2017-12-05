@@ -721,6 +721,20 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/132389947d4b987438f3046cf04092fe8874a002/Frank-n-Mad.jpg",
 				"name": "Frank-n-Mad",
                 "category": "Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/6e54b411ebd6aa31b8d7c266904ebd9481b9a374/345467544237073452.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/6e54b411ebd6aa31b8d7c266904ebd9481b9a374/345467544237073452.jpg",
+				"name": "The Pot",
+                "category": "Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/6e54b411ebd6aa31b8d7c266904ebd9481b9a374/Bear1-2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/6e54b411ebd6aa31b8d7c266904ebd9481b9a374/Bear1-2.png",
+				"name": "Bear",
+                "category": "Shapes"
 			}
 		]
 }
