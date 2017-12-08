@@ -728,13 +728,6 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/fcc2abb028a9b5f6e69827d4ca3fe9b5e40a66d5/Bear1-2A.png",
 				"name": "Bear",
                 "category": "Shapes"
-			},
-            {
-				"author": "Mad Season",
-				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Ghost.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Ghost.jpg",
-				"name": "Ghost",
-                "category": "Shapes"
 			}
 		]
 }
