@@ -735,6 +735,69 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/fed41a9d5fbb2713dc72c58b3d8d5070116d379f/Ghost.jpg",
 				"name": "Ghost",
                 "category": "Shapes"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/a3b1d9f45af097ca24c9e85e2b413820d0d03421/snow_003.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/a3b1d9f45af097ca24c9e85e2b413820d0d03421/snow_003.jpg",
+				"name": "Snow",
+                "category": "Photography"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/a3b1d9f45af097ca24c9e85e2b413820d0d03421/snow_001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/a3b1d9f45af097ca24c9e85e2b413820d0d03421/snow_001.jpg",
+				"name": "Ghost",
+                "category": "Photography"
+			},
+            {
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/a3b1d9f45af097ca24c9e85e2b413820d0d03421/Mountians.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/a3b1d9f45af097ca24c9e85e2b413820d0d03421/Mountians.jpg",
+				"name": "Mountains",
+                "category": "Shapes"
+			},
+            {
+				"author": "CJM",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/afd9cfe74eaef2cc7518cc0cf862b43f29a08dee/cliff_pink.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/afd9cfe74eaef2cc7518cc0cf862b43f29a08dee/cliff_pink.jpg",
+				"name": "The Cliffs",
+                "category": "Shapes"
+			},
+            {
+				"author": "CJM",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/afd9cfe74eaef2cc7518cc0cf862b43f29a08dee/cliff_yellow.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/afd9cfe74eaef2cc7518cc0cf862b43f29a08dee/cliff_yellow.jpg",
+				"name": "The Cliffs",
+                "category": "Shapes"
+			},
+            {
+				"author": "CJM",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/afd9cfe74eaef2cc7518cc0cf862b43f29a08dee/cliff_orange.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/afd9cfe74eaef2cc7518cc0cf862b43f29a08dee/cliff_orange.jpg",
+				"name": "The Cliffs",
+                "category": "Shapes"
+			},
+            {
+				"author": "CJM",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/afd9cfe74eaef2cc7518cc0cf862b43f29a08dee/cliff_green.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/afd9cfe74eaef2cc7518cc0cf862b43f29a08dee/cliff_green.jpg",
+				"name": "The Cliffs",
+                "category": "Shapes"
+			},
+            {
+				"author": "CJM",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/afd9cfe74eaef2cc7518cc0cf862b43f29a08dee/cliffPurple.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/afd9cfe74eaef2cc7518cc0cf862b43f29a08dee/cliffPurple.jpg",
+				"name": "The Cliffs",
+                "category": "Shapes"
+			},
+            {
+				"author": "CJM",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/afd9cfe74eaef2cc7518cc0cf862b43f29a08dee/cliff.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/afd9cfe74eaef2cc7518cc0cf862b43f29a08dee/cliff.png",
+				"name": "The Cliffs",
+                "category": "Shapes"
 			}
 		]
 }
