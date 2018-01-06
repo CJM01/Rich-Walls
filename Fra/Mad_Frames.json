@@ -30,6 +30,13 @@
 	"Wallpapers":
         [
 			{
+				"author": "Zachary Vogt",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Zach.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Zach.jpg",
+				"name": "Mesh",
+                "category": "Shapes,Dark"
+			},
+			{
 				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/rocket.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/rocket.png",
