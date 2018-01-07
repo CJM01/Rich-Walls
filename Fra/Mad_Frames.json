@@ -30,6 +30,41 @@
 	"Wallpapers":
         [
 			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/1f5570182fc6f1471fd71db5dba6a71c53ef1db5/Red%20circle%20gradient.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/1f5570182fc6f1471fd71db5dba6a71c53ef1db5/Red%20circle%20gradient.png",
+				"name": "Red",
+                "category": "Shapes,Gradients"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/1f5570182fc6f1471fd71db5dba6a71c53ef1db5/Grey%20circle%20gradients2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/1f5570182fc6f1471fd71db5dba6a71c53ef1db5/Grey%20circle%20gradients2.png",
+				"name": "Grey",
+                "category": "Shapes,Gradients"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/1f5570182fc6f1471fd71db5dba6a71c53ef1db5/Grey%20circle%20gradients.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/1f5570182fc6f1471fd71db5dba6a71c53ef1db5/Grey%20circle%20gradients.png",
+				"name": "Grey",
+                "category": "Shapes,Gradients"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/1f5570182fc6f1471fd71db5dba6a71c53ef1db5/Green%20circle%20gradient.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/1f5570182fc6f1471fd71db5dba6a71c53ef1db5/Green%20circle%20gradient.png",
+				"name": "Green",
+                "category": "Shapes,Gradients"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/1f5570182fc6f1471fd71db5dba6a71c53ef1db5/Black%20cross.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/1f5570182fc6f1471fd71db5dba6a71c53ef1db5/Black%20cross.jpg",
+				"name": "Cross",
+                "category": "Shapes,Dark"
+			},
+			{
 				"author": "Zachary Vogt",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Zach.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/Zach.jpg",
