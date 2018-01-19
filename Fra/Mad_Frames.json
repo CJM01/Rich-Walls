@@ -14,7 +14,7 @@
                 "name": "Space"
             },
             {
-                "name": "Science"
+                "name": "Grid"
             },
             {
                 "name": "Dark"
@@ -31,10 +31,101 @@
         [
 			{
 				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid.png",
+				"name": "Grid",
+                "category": "Grid"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid10.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid10.png",
+				"name": "Grid",
+                "category": "Grid"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid11.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid11.png",
+				"name": "Grid",
+                "category": "Grid"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid12.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid12.png",
+				"name": "Grid",
+                "category": "Grid"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid13.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid13.png",
+				"name": "Grid",
+                "category": "Grid"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid2.png",
+				"name": "Grid",
+                "category": "Grid"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid3.png",
+				"name": "Grid",
+                "category": "Grid"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid4.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid4.png",
+				"name": "Grid",
+                "category": "Grid"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid5.png",
+				"name": "Grid",
+                "category": "Grid"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid6.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid6.png",
+				"name": "Grid",
+                "category": "Grid"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid7.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid7.png",
+				"name": "Grid",
+                "category": "Grid"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid8.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid8.png",
+				"name": "Grid",
+                "category": "Grid"
+			},
+			{
+				"author": "Mad Season",
+				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid9.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/07456d6eac9b52592828c86d0cf35d282b8ee1d1/Grid9.png",
+				"name": "Grid",
+                "category": "Grid"
+			},
+			{
+				"author": "Mad Season",
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/1f5570182fc6f1471fd71db5dba6a71c53ef1db5/Red%20circle%20gradient.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/1f5570182fc6f1471fd71db5dba6a71c53ef1db5/Red%20circle%20gradient.png",
-				"name": "Red",
-                "category": "Shapes,Gradients"
+				"name": "Grid",
+                "category": "Grid"
 			},
 			{
 				"author": "Mad Season",
@@ -83,7 +174,7 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/chemist2.png",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Rich-Walls/master/chemist2.png",
 				"name": "Chemist",
-                "category": "Science,Dark"
+                "category": "Dark"
 			},
             {
 				"author": "Mad Season",
